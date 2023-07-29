@@ -1,3 +1,5 @@
+Water Quality Classification
+
 For the purpose of regulating water quality and safeguarding public health and the environment, 
 monitoring water quality is crucial. Significant prospects exist for artificial intelligence (AI) to 
 help with classification and water quality prediction (WQ). This study evaluates different AI 
